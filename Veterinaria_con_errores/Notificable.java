@@ -1,0 +1,3 @@
+interface Notificable {
+    String mensajeRecordatorio();
+}
